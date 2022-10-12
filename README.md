@@ -14,7 +14,7 @@ EOF
 source git-<git-id>-source
 
 # Clone repository
-git clone git@github.com:hardkeo/how-to-install.git
+git clone git@github.com:hardkeo/cloning-and-updating-a-repository-using-ssh-key-pair.git
 
 # Update repository (after changes)
 git push origin main
