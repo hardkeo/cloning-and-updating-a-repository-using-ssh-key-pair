@@ -1,5 +1,5 @@
 # Cloning and updating a repository using ssh key pair
-How to clone and/or update private reposytory using ssh key pair authentication.
+How to clone (if private) and/or update reposytory using ssh key pair authentication.
 
 ## On CLI:
 ```bash
