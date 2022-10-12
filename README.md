@@ -19,3 +19,4 @@ git clone git@github.com:hardkeo/how-to-install.git
 # Update repository (after changes)
 git push origin main
 ```
+---
