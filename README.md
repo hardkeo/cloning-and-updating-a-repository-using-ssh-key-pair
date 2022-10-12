@@ -1,7 +1,7 @@
-# how-to-install
-How to install some things I'm using.
+# Cloning and updating a repository using ssh key pair
+How to clone and/or update private reposytory using ssh key pair authentication.
 
-## Cloning and updating this repository
+## On CLI:
 ```bash
 # Create a source file
 tee ./git-<git-id>-source <<-EOF
