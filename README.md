@@ -10,7 +10,7 @@ tee ./git-<git-id>-source <<-EOF
   export GIT_AUTHOR_NAME='<git-id>'
 EOF
 
-# Load source file git-<git-id>
+# Load source file git-<git-id>-source
 source git-<git-id>-source
 
 # Clone repository
